@@ -1,4 +1,4 @@
-#Hand Tracking Module
+# Hand Tracking Module
 This module uses OpenCV and MediaPipe Hands to detect and track hands in real time via a webcam feed.
 
 Features
